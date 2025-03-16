@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jungdadak&theme=tokyo-night)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jungdadak&theme=tokyo-night)
 
 ---
 
